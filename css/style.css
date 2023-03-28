@@ -719,7 +719,7 @@ section {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(../images/pinky-landscape.jpg) no-repeat;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/pinky-landscape.jpg) no-repeat;
   background-size: contain;
-  background-position: center;
+  background-position: center bottom;
   background-attachment: fixed;
 }
 
